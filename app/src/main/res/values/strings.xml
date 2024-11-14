@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Лаб 20. Тунчик</string>
+
+    <string name="author">Тунчик Антон АС-63</string>
+    <string name="authorBtn">Разработчик</string>
+</resources>
